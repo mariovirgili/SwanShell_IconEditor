@@ -1,0 +1,5 @@
+# Built locally by build.bat - not versioned
+*.exe
+*.pdb
+# Per-user settings
+NileSwanIconEditor.ini
