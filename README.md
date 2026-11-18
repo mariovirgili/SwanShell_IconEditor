@@ -1,8 +1,14 @@
 # SwanShell Icon Editor
 
-A small Windows editor for the **file icon sets (`.ICN`)** of the
-[swanshell](https://github.com/asiekierka/swanshell) menu on the
+A small Windows editor for the **file icon sets (`.ICN`)** of the **SwanShellDX** menu on the
 **nileswan** flash cartridge for WonderSwan / WonderSwan Color.
+
+> **Works only with SwanShellDX.** Icon sets (`NILESWAN\ICONS`, *Settings > Interface > Theme >
+> Icons*) are a feature of SwanShellDX, my modified version of swanshell. The original swanshell
+> does not read `.ICN` files.
+>
+> **swanshell** is a product of **asie**: <https://github.com/asiekierka/swanshell>.
+> SwanShellDX and this editor are independent projects, not made or supported by asie.
 
 Single C# source file, WinForms, .NET Framework 4.x (built into Windows 10 and 11):
 nothing to install, no dependencies. No binaries are published: you build the
