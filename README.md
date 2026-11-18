@@ -32,7 +32,7 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe ^
 
 ## Ready-made icon sets
 
-The [`icon-sets`](icon-sets) folder has 7 sets ready to use: copy the `.ICN` files to
+The [`ICONS`](ICONS) folder has 7 ready-made icon packs: copy the folder (or just the `.ICN` files you want) to
 `NILESWAN\ICONS` on the microSD card and pick one in **Settings > Interface > Theme > Icons**.
 You can also open them in the editor as a starting point for your own set.
 
@@ -40,31 +40,31 @@ Each preview shows the set as the console draws it: normal row, selected row, 8�
 
 ### ORIGINALI.ICN — the original swanshell icons
 
-![ORIGINALI](icon-sets/preview/ORIGINALI.png)
+![ORIGINALI](docs/preview/ORIGINALI.png)
 
 ### CLASSIC.ICN — classic style
 
-![CLASSIC](icon-sets/preview/CLASSIC.png)
+![CLASSIC](docs/preview/CLASSIC.png)
 
 ### CLASSIC-AI.ICN — classic style, AI-drawn
 
-![CLASSIC-AI](icon-sets/preview/CLASSIC-AI.png)
+![CLASSIC-AI](docs/preview/CLASSIC-AI.png)
 
 ### MODERN.ICN — modern style
 
-![MODERN](icon-sets/preview/MODERN.png)
+![MODERN](docs/preview/MODERN.png)
 
 ### MODERN-AI.ICN — modern style, AI-drawn
 
-![MODERN-AI](icon-sets/preview/MODERN-AI.png)
+![MODERN-AI](docs/preview/MODERN-AI.png)
 
 ### PIXELART.ICN — pixel-art style
 
-![PIXELART](icon-sets/preview/PIXELART.png)
+![PIXELART](docs/preview/PIXELART.png)
 
 ### PIXELART-AI.ICN — pixel-art style, AI-drawn
 
-![PIXELART-AI](icon-sets/preview/PIXELART-AI.png)
+![PIXELART-AI](docs/preview/PIXELART-AI.png)
 
 ## What it makes
 
